@@ -1,6 +1,6 @@
-# fly.toml file generated for livmoo on 2023-03-19T18:22:24+01:00
+# fly.toml file generated for livmo on 2023-03-19T18:22:24+01:00
 
-app = "livmoo"
+app = "livmo"
 kill_signal = "SIGINT"
 kill_timeout = 5
 primary_region = "cdg"
