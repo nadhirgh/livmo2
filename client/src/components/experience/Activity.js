@@ -56,7 +56,7 @@ const Activity = ({ generalFormValues, changeGeneralValue }) => {
     })
 
     
-      //image
+      //images
 
 
       
