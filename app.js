@@ -39,14 +39,14 @@ app.use('/api/v1', lodging);
 app.use('/api/v1', experience);
 app.use('/api/v1', auth);
 
+
+
+
+
 app.use(express.static('client/build'))
 app.get('*', (req,res)=>{
     res.sendFile(__dirname+'/client/build/index.html')
 })
-
-
-
-
 
 
 
